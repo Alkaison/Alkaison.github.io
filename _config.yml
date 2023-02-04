@@ -21,10 +21,10 @@ timezone: Asia/Kolkata
 
 title: Alkaison's Blog                          # the main title
 
-tagline: Learn how projects are made at the start of your coding career.  # it will display as the sub-title
+tagline: I'll be sharing my knowledge on a variety of topics and concepts.  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Guide for beginners on how to write there project codes with better performance and ideas for projects. Let's Code and grow!
+  I'll be sharing my knowledge on a variety of topics and concepts.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: ''
