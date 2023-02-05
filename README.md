@@ -1,9 +1,9 @@
 <div align="center">
 
   <h1>Alkaison's Blog</h1>
-  <h3>I'll be sharing my knowledge on a<br> variety of topics and concepts.</h3>
+  <h3>I'll be sharing my knowledge on a variety of topics and concepts.</h3>
   <h4><a href="https://alkaison.github.io">Visit Blog »</a></h4>
-
+  <img src="#" alt="Blog Home Page" width="100%">
 </div>
 
 ## Features
