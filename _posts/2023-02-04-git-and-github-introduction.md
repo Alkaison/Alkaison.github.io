@@ -7,7 +7,7 @@ tags: [git, github, git bash, version control]
 pin: true
 ---
 
-Let us first understand what is Git and later on will look upon GitHub. Git helps in collaborative coding and GitHub helps to host our code on open-source platform.
+Let us first understand what is Git and later on will learn about GitHub. Git helps in collaborative coding and GitHub helps to host our code at open source platform.
 
 ### What is Git ?
 
@@ -36,4 +36,4 @@ Let us first understand what is Git and later on will look upon GitHub. Git help
 
 - Git is not the same as GitHub.
 - GitHub makes tools that use  Git.
-- GitHub is the largest host of source code in the world and has been owned by Microsoft since 2018.
+- GitHub is the largest host of source code in the world and has been owned by <strong>Microsoft</strong> <em>since 2018.</em>
