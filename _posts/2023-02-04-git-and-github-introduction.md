@@ -11,6 +11,7 @@ Let us first understand what is Git and later on will learn about GitHub. Git he
 
 ### What is Git ?
 
+![Git Logo](/assets/posts-img/git-logo.png){: width="300" height="300" .w-50 .right}
 - Git is a version control system.
 - It helps you keep track of code changes.
 - It is used to collaborate on code.
@@ -34,6 +35,7 @@ Let us first understand what is Git and later on will learn about GitHub. Git he
 
 ### What is GitHub ?
 
+![GitHub Logo](/assets/posts-img/github-logo.png){: width="300" height="300" .w-50 .right}
 - Git is not the same as GitHub.
 - GitHub makes tools that use  Git.
 - GitHub is the largest host of source code in the world and has been owned by <strong>Microsoft</strong> <em>since 2018.</em>
