@@ -78,10 +78,10 @@ theme_mode: dark  # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: 'https://avatars.githubusercontent.com'
+img_cdn: 'https://github.com/Alkaison/Alkaison.github.io/tree/main'
 
 # the avatar on sidebar, support local or CORS resources
-avatar: '/u/98116504?v=4?s=400'
+avatar: '/assets/site-logo.png'
 
 # boolean type, the global switch for ToC in posts.
 toc: true
