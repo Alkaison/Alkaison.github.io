@@ -1,9 +1,10 @@
 <div align="center">
 
   <h1>Alkaison's Blog</h1>
-  <h3>I'll be sharing my knowledge on a variety of topics and concepts.</h3>
-  <h4><a href="https://alkaison.github.io">Visit Blog »</a></h4>
-  <img src="#" alt="Blog Home Page" width="100%">
+  <h3 style="font-size:20px;">I'll be sharing my knowledge on a variety of topics and concepts.</h3>
+  <h4><a href="https://alkaison.github.io" style="font-size:17.5px;">Visit Blog »</a></h4>
+  <!-- Created from Site: https://responsivemockups.com/ -->
+  <img src="assets/site-pic.png" alt="Blog Home Page" width="100%">
 </div>
 
 ## Features
