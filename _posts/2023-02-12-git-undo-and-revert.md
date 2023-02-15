@@ -69,4 +69,8 @@ git commit --amend -m "Commit message here"
 
 #### Git Amend Files 
 
-- Adding files with '--amend' works the same way as above. Just add them to the staging environment before committing. 
+- Adding files with '--amend' works the same way as above. Just add them to the staging environment before committing.
+
+```terminal
+git commit --amend
+```
