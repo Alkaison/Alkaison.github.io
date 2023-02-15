@@ -23,7 +23,23 @@
 - Dark Mode Images
 - Embed Videos
 - Search
+- Utterances Comments
 - SEO & Performance Optimization
+
+## Contributing 
+
+**Dear contributors,**
+
+I want to extend a warm welcome to all of you who are interested in contributing to the blog. I'm thrilled to have you all on board and can't wait to see what amazing content we can create together.
+
+Whether you're an experienced developer or just starting out, your contributions are valuable and greatly appreciated. Together, we can make this blog a hub of knowledge and inspiration for everyone in the community.
+
+If you have any [ideas](https://github.com/Alkaison/Alkaison.github.io/issues/new?assignees=&labels=enhancement&template=feature_request.md "give ideas"), [questions](https://github.com/Alkaison/Alkaison.github.io/issues/new?assignees=&labels=question&template=question.md  "ask questions") or [feedback](https://github.com/Alkaison/Alkaison.github.io/issues/new  "feedback"), please don't hesitate to reach out. I'm always available and happy to help.
+
+Thank you again for joining me on this journey.
+
+Best regards,<br>
+**Ganesh Mourya**
 
 ## Credits
 
@@ -31,7 +47,7 @@ This theme is mainly built with [Jekyll](https://jekyllrb.com/) ecosystem, [Boot
 
 :tada: Thanks to [Cotes](https://github.com/cotes2020) for making this amazing theme [Jekyll-Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy/) for blog sites. 
 
-:tada: Thanks to all the volunteers who contributed to this project, their GitHub IDs are on [this list](https://github.com/cotes2020/jekyll-theme-chirpy/graphs/contributors). Also, I won't forget those guys who submitted the issues or unmerged PR because they reported bugs, shared ideas, or inspired me to write more readable documentation.
+:tada: Thanks to all the volunteers who contributed to this project, their GitHub IDs are on [this list](https://github.com/cotes2020/jekyll-theme-chirpy/graphs/contributors).
 
 Last but not least, thank [JetBrains](https://www.jetbrains.com/?from=jekyll-theme-chirpy) for providing the OSS development license.
 
