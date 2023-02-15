@@ -1,23 +1,31 @@
 <div align="center">
 
-  <h1>Alkaison's Blog</h1>
-  <h3 style="font-size:20px;">I'll be sharing my knowledge on a variety of topics and concepts.</h3>
+  # Alkaison's Blog
+
+  I'll be sharing my knowledge on a variety of topics and concepts.
+
+  [![CI](https://github.com/alkaison/alkaison.github.io/actions/workflows/ci.yml/badge.svg)](https://github.com/alkaison/alkaison.github.io/actions/workflows/ci.yml "CI")
+  ![Codacy Badge](https://app.codacy.com/project/badge/Grade/4e556876a3c54d5e8f2d2857c4f43894 "Codacy Badge")
+  [![GitHub license](https://img.shields.io/github/license/alkaison/alkaison.github.io.svg)](https://github.com/alkaison/alkaison.github.io/blob/master/LICENSE "GitHub license")
+
   <h4><a href="https://alkaison.github.io" style="font-size:17.5px; target="_blank" title="Alkaisons Blog">Visit Blog »</a></h4>
   <!-- Created from Site: https://responsivemockups.com/ -->
   <!-- Hosted at Site: https://postimages.org/ -->
   <!--  Image Background Remover: High Quality: https://remove.photos/remove-background ; https://www.erase.bg/upload -->
-  <img src="https://i.postimg.cc/Wp7hPPVn/true2-Ig519z-Y4b-transformed.png" title="Blog Page" alt="Blog Home Page" width="100%">
+  
+  [![Deice Mockup](https://i.postimg.cc/Wp7hPPVn/true2-Ig519z-Y4b-transformed.png)](https://alkaison.github.io/ "Blog Image")
+
 </div>
 
 ## Blog Posts 
 
 - Git and GitHub Guide 
-  1. [Git and GitHub Introduction](https://alkaison.github.io/posts/git-and-github-introduction/ "Git and GitHub Introduction")
-  2. [Configuring Git for the first time](https://alkaison.github.io/posts/configure-git-first-time/ "Configuring Git for the first time")
-  3. [Basic Git Commands](https://alkaison.github.io/posts/basic-git-commands/ "Basic Git Commands")
-  4. [Git Branch and Merge PRs](https://alkaison.github.io/posts/git-branching/ "Git Branch and Merge PRs")
-  5. [Working with GitHub](https://alkaison.github.io/posts/working-with-github/ "Working with GitHub")
-  6. [Git Undo and Revert](https://alkaison.github.io/posts/git-undo-and-revert/ "Git Undo and Revert")
+   - [Git and GitHub Introduction](https://alkaison.github.io/posts/git-and-github-introduction/ "Git and GitHub Introduction")
+   - [Configuring Git for the first time](https://alkaison.github.io/posts/configure-git-first-time/ "Configuring Git for the first time")
+   - [Basic Git Commands](https://alkaison.github.io/posts/basic-git-commands/ "Basic Git Commands")
+   - [Git Branch and Merge PRs](https://alkaison.github.io/posts/git-branching/ "Git Branch and Merge PRs")
+   - [Working with GitHub](https://alkaison.github.io/posts/working-with-github/ "Working with GitHub")
+   - [Git Undo and Revert](https://alkaison.github.io/posts/git-undo-and-revert/ "Git Undo and Revert")
 
 ## Features
 
@@ -61,6 +69,45 @@ This theme is mainly built with [Jekyll](https://jekyllrb.com/ "Jekyll") ecosyst
 :tada: Thanks to all the volunteers who contributed to this project, their GitHub IDs are on [this list](https://github.com/cotes2020/jekyll-theme-chirpy/graphs/contributors "All contributors").
 
 Last but not least, thank [JetBrains](https://www.jetbrains.com/?from=jekyll-theme-chirpy/ "JetBrains") for providing the OSS development license.
+
+## Quick Start
+
+Before starting, please follow the instructions in the [Jekyll Docs](https://jekyllrb.com/docs/installation/  "Jekyll Docs") to complete the installation of `Ruby`, `RubyGems`, `Jekyll`, and `Bundler`. In addition, [Git](https://git-scm.com/  "Git") is also required to be installed.
+
+### Step 1. Creating a New Site
+
+Create a fork of this repository from [here](https://github.com/Alkaison/Alkaison.github.io/fork  "Fork") and clone the fork into your local system using git clone command.
+
+### Step 2. Installing Dependencies
+
+Before running for the first time, go to the root directory of your site, and install dependencies as follows:
+
+```console
+$ bundle
+```
+
+### Step 3. Running Local Server
+
+Run the following command in the root directory of the site:
+
+```console
+$ bundle exec jekyll s
+```
+
+Or run with Docker:
+
+```console
+$ docker run -it --rm \
+    --volume="$PWD:/srv/jekyll" \
+    -p 4000:4000 jekyll/jekyll \
+    jekyll serve
+```
+
+After a while, navigate to the site at <http://localhost:4000>.
+
+## Documentation
+
+For more details on usage, please refer to the tutorial on the [demo website](https://cotes2020.github.io/chirpy-demo/) / [wiki](https://github.com/cotes2020/jekyll-theme-chirpy/wiki). Note that the tutorial is based on the [latest release](https://github.com/cotes2020/jekyll-theme-chirpy/releases/latest), and the features of the default branch are usually ahead of the documentation.
 
 ## License
 
