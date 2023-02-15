@@ -3,7 +3,7 @@ title: Git Branch & Merge PR's
 author: alkaison
 date: 2023-02-10 16:00:00 +0530
 categories: [Blogging, Git & GitHub]
-tags: [git, github, git branch, git terminal, version control]
+tags: [git, github, git branch, git terminal, version control, git merge, merge branches, PRs]
 ---
 
 - In Git, a branch is a new/separate version of the main repository.

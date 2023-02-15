@@ -3,7 +3,7 @@ title: Basic Git Commands
 author: alkaison
 date: 2023-02-08 16:00:00 +0530
 categories: [Blogging, Git & GitHub]
-tags: [git, github, git terminal, version control]
+tags: [git, github, git terminal, version control, git commit, git push, git stage files, git status, git log ]
 ---
 
 ### Git Init 

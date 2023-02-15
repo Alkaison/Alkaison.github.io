@@ -3,7 +3,7 @@ title: Configuring Git for the first time
 author: alkaison
 date: 2023-02-07 16:00:00 +0530
 categories: [Blogging, Git & GitHub]
-tags: [git, github, git bash, version control]
+tags: [git, github, ssh key, username]
 ---
 
 ### Installing Git Setup
