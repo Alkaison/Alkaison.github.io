@@ -97,6 +97,7 @@ comments:
     issue_term: 'pathname'  # < url | pathname | title | ...>
     theme: 'github-dark' 
     crossorigin: 'anonymous' 
+    label: 'blog-comments' 
   # Giscus options › https://giscus.app
   giscus:
     repo:              # <gh-username>/<repo>
