@@ -21,5 +21,5 @@ order: 4
 - **Twitter:**  <kbd><a href="https://twitter.com/alkaison" target="_blank">Alkaison</a></kbd>
 - **LinkedIn:**  <kbd><a href="https://linkedin.com/in/alkaison" target="_blank">Ganesh Mourya</a></kbd>
 
-> Most of my projects are available on my GitHub profile. 
-{: .prompt-tip}
+> This page was last updated on: 01 April 2023. 
+{: .prompt-warning }
