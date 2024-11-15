@@ -5,8 +5,12 @@
 I'll be sharing my knowledge on a variety of topics and concepts.
 
 [![CI](https://github.com/alkaison/alkaison.github.io/actions/workflows/ci.yml/badge.svg)](https://github.com/alkaison/alkaison.github.io/actions/workflows/ci.yml "CI")
-![Codacy Badge](https://app.codacy.com/project/badge/Grade/4e556876a3c54d5e8f2d2857c4f43894 "Codacy Badge")
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/4e556876a3c54d5e8f2d2857c4f43894 "Codacy Badge")](https://github.com/Alkaison/Alkaison.github.io/)
 [![GitHub license](https://img.shields.io/github/license/alkaison/alkaison.github.io.svg)](https://github.com/alkaison/alkaison.github.io/blob/master/LICENSE "GitHub license")
+[![Last Commit](https://img.shields.io/github/last-commit/Alkaison/Alkaison.github.io)](https://github.com/Alkaison/Alkaison.github.io)
+[![Build Test](https://img.shields.io/github/actions/workflow/status/Alkaison/Alkaison.github.io/jekyll.yml)](https://github.com/Alkaison/Alkaison.github.io/)
+[![Code Size](https://img.shields.io/github/languages/code-size/Alkaison/Alkaison.github.io)](https://github.com/Alkaison/Alkaison.github.io/)
+[![Maintained](https://img.shields.io/badge/Maintained-Yes-green)](https://github.com/Alkaison/Alkaison.github.io/)
 
   <h4><a href="https://alkaison.github.io" style="font-size:17.5px; target="_blank" title="Alkaisons Blog">Visit Blog »</a></h4>
   <!-- Created from Site: https://responsivemockups.com/ -->
@@ -26,6 +30,14 @@ I'll be sharing my knowledge on a variety of topics and concepts.
   - [Git Branch and Merge PRs](https://alkaison.github.io/posts/git-branching/ "Git Branch and Merge PRs")
   - [Working with GitHub](https://alkaison.github.io/posts/working-with-github/ "Working with GitHub")
   - [Git Undo and Revert](https://alkaison.github.io/posts/git-undo-and-revert/ "Git Undo and Revert")
+
+## Sitemap
+
+- [Home](https://alkaison.github.io/ "Home")
+- [Categories](https://alkaison.github.io/categories/ "Categories")
+- [Tags](https://alkaison.github.io/tags/ "Tags")
+- [Archives](https://alkaison.github.io/archives/ "Archives")
+- [About](https://alkaison.github.io/about/ "About")
 
 ## Features
 
@@ -70,7 +82,7 @@ This theme is mainly built with [Jekyll](https://jekyllrb.com/ "Jekyll") ecosyst
 
 Last but not least, thank [JetBrains](https://www.jetbrains.com/?from=jekyll-theme-chirpy/ "JetBrains") for providing the OSS development license.
 
-## Quick Start
+## Quick Start - Setup Guide
 
 Before starting, please follow the instructions in the [Jekyll Docs](https://jekyllrb.com/docs/installation/ "Jekyll Docs") to complete the installation of `Ruby`, `RubyGems`, `Jekyll`, and `Bundler`. In addition, [Git](https://git-scm.com/ "Git") is also required to be installed.
 
